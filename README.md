@@ -13,6 +13,7 @@ Feel free to create issues or pull requests if you know more available software
 |GitHub Issues|Sync Issues of a single GitHub Repository with a notion database|Notion|[GitHub](https://github.com/makenotion/notion-sdk-js/tree/main/examples/github-issue-sync)|
 |Email Notification|Send an email whenever the status of a page in a database is updated|Notion|[GitHub](https://github.com/makenotion/notion-sdk-js/tree/main/examples/database-update-send-email)|
 |Notrition|Produce nutrition labels for stored recipes by utilizing Edamam API|justjake|[GitHub](https://github.com/justjake/notrition)|
+|WIP: Todoist Sync|Sync Todoist with Notion Database|MaaxGr|[GitHub](https://github.com/MaaxGr/NotionTodoistSync)|
 
  
 ## Frameworks
