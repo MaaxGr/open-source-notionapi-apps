@@ -28,6 +28,7 @@ Feel free to create issues or pull requests if you know more available software
 
 |What|Description|Author|Link|
 |---|---|---|---|
+|Go SDK|SDK for Notion.io API|ketion-so|[GitHub](https://github.com/ketion-so/go-notion)|
 |Vue API|Vue integration for Notion API|64robots|[GitHub](https://github.com/64robots/vue-notion-api)|
 |PHP API|PHP API for Notion|64robots|[GitHub](https://github.com/64robots/php-notion)|
 |React API|Hooks for using the Notion API from React|mkalvas|[GitHub](https://github.com/mkalvas/notion-react)|
