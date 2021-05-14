@@ -22,8 +22,8 @@ Feel free to create issues or pull requests if you know more available software
 |What|Description|Status|Author|
 |---|---|---|---|
 |[notion-sdk-js](https://github.com/makenotion/notion-sdk-js)|Notion SDK for JavaScript|Stable|Notion|
+|[notion-sdk-py](https://github.com/Blue-Hope/notion-sdk-py)|A simple and easy to use python client for the Notion API|Beta|Blue-Hope|
 |[go-notion](https://github.com/dstotijn/go-notion)|Go client for the Notion API|Early Development|dstotijn|
-|[notion-sdk-py](https://github.com/Blue-Hope/notion-sdk-py)|A simple and easy to use python client for the Notion API|Early Development|Blue-Hope|
 |[Go SDK](https://github.com/ketion-so/go-notion)|SDK for Notion.io API|Early Development|ketion-so|
 |[Vue API](https://github.com/64robots/vue-notion-api)|Vue integration for Notion API|Early Development|64robots|
 |[PHP API](https://github.com/64robots/php-notion)|PHP API for Notion|Early Development|64robots|
