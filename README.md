@@ -1,10 +1,10 @@
 
 # Open Source Notion API Apps
 
-This will be a list of all available open source clients 
-that are build on top of notions public api
+This is a list of all available open source clients, apps and integrations
+that are build on top of notions public api.
 
-Feel free to create issues or pull requests if you know more available software
+Feel free to create issues or pull requests if you know more available software!
 
 ## Integrations
 
