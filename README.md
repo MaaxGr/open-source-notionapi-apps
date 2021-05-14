@@ -13,6 +13,7 @@ Feel free to create issues or pull requests if you know more available software
 |[GitHub Issues](https://github.com/makenotion/notion-sdk-js/tree/main/examples/github-issue-sync)|Sync Issues of a single GitHub Repository with a notion database|Stable|Notion|
 |[Email Notification](https://github.com/makenotion/notion-sdk-js/tree/main/examples/database-update-send-email)|Send an email whenever the status of a page in a database is updated|Stable|Notion|
 |[Notrition](https://github.com/justjake/notrition)|Produce nutrition labels for stored recipes by utilizing Edamam API|Stable|justjake|
+|[notion-blog-nextjs](https://github.com/samuelkraft/notion-blog-nextjs)|Next.js blog using Notions Public API|Beta|samuelkraft|
 |[Todoist Sync](https://github.com/MaaxGr/NotionTodoistSync)|Sync Todoist with Notion Database|Early Development|MaaxGr|
 |[sublinear](https://github.com/jonas-kgomo/sublinear)|Easily synchronize issues between Linear and Notion|Early Development|jonas-kgomo|
 
