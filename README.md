@@ -6,7 +6,7 @@ that are build on top of notions public api
 
 Feel free to create issues or pull requests if you know more available software
 
-## Client Apps
+## Integrations
 
 |What|Description|Status|Author|
 |---|---|---|---|
