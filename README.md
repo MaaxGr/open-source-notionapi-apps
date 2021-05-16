@@ -30,4 +30,4 @@ Feel free to create issues or pull requests if you know more available software!
 |[Vue API](https://github.com/64robots/vue-notion-api)|Vue integration for Notion API|Early Development|64robots|
 |[PHP API](https://github.com/64robots/php-notion)|PHP API for Notion|Early Development|64robots|
 |[React API](https://github.com/mkalvas/notion-react)|Hooks for using the Notion API from React|Early Development|mkalvas|
-
+|[Swift API](https://github.com/noppefoxwolf/notion)|Swift API for Notion|Early Development|noppefoxwolf|
