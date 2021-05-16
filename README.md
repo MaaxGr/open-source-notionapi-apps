@@ -30,4 +30,5 @@ Feel free to create issues or pull requests if you know more available software!
 |[Vue API](https://github.com/64robots/vue-notion-api)|Vue integration for Notion API|Early Development|64robots|
 |[PHP API](https://github.com/64robots/php-notion)|PHP API for Notion|Early Development|64robots|
 |[React API](https://github.com/mkalvas/notion-react)|Hooks for using the Notion API from React|Early Development|mkalvas|
+|[notion-sdk-jvm](https://github.com/seratch/notion-sdk-jvm)|Notion SDK (written in Kotlin) for any JVM Language|Early Development|seratch|
 
