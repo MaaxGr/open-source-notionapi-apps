@@ -32,3 +32,4 @@ Feel free to create issues or pull requests if you know more available software!
 |[React API](https://github.com/mkalvas/notion-react)|Hooks for using the Notion API from React|Early Development|mkalvas|
 |[notion-sdk-jvm](https://github.com/seratch/notion-sdk-jvm)|Notion SDK (written in Kotlin) for any JVM Language|Early Development|seratch|
 |[Swift API](https://github.com/noppefoxwolf/notion)|Swift API for Notion|Early Development|noppefoxwolf|
+|[Rust API](https://github.com/jakeswenson/notion)|Rust API and Client for Notion|Early Development|jakeswenson|
