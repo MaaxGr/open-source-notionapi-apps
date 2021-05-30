@@ -27,6 +27,7 @@ Feel free to create issues or pull requests if you know more available software!
 |[notion-sdk-py](https://github.com/ramnes/notion-sdk-py)|A simple and easy to use client for the Notion API|Beta|ramnes|
 |[go-notion](https://github.com/dstotijn/go-notion)|Go client for the Notion API|Early Development|dstotijn|
 |[Go SDK](https://github.com/ketion-so/go-notion)|SDK for Notion.io API|Early Development|ketion-so|
+|[Go API](https://github.com/jomei/notionapi)|API client for Notion.io API|Ready to Use|jomei|
 |[Vue API](https://github.com/64robots/vue-notion-api)|Vue integration for Notion API|Early Development|64robots|
 |[PHP API](https://github.com/64robots/php-notion)|PHP API for Notion|Early Development|64robots|
 |[React API](https://github.com/mkalvas/notion-react)|Hooks for using the Notion API from React|Early Development|mkalvas|
