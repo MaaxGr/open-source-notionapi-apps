@@ -17,6 +17,7 @@ Feel free to create issues or pull requests if you know more available software!
 |[notion-german-anki](https://github.com/boxysean/notion-german-anki)|Notion as source of truth for anki dictionary|Early Development|boxysean|
 |[Todoist Sync](https://github.com/MaaxGr/NotionTodoistSync)|Sync Todoist with Notion Database|Early Development|MaaxGr|
 |[sublinear](https://github.com/jonas-kgomo/sublinear)|Easily synchronize issues between Linear and Notion|Early Development|jonas-kgomo|
+|[Wix enquiries → Notion](https://github.com/dragonacademy4/wix-notion-reference)|MIT-licensed Python reference connector with a durable SQLite outbox, recovery tools and a synthetic demo; live Wix/Notion delivery unverified|Reference (local tests only)|Dylan Powell (AI-assisted)|
 
  
 ## Frameworks
